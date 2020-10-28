@@ -387,7 +387,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   terrain: {fileID: 15600000, guid: 2ebc866a0594bc64a898859db98127f7, type: 2}
-  heightMap: {fileID: 2800000, guid: 50f571540026016418bd0b97f1a0c7c3, type: 3}
+  heightMap: {fileID: 2800000, guid: 2f7f538b70e99514dbc72ead0ee7d02e, type: 3}
   cycles: 300000
   gravite: 4
   inertie: 0.05
